@@ -20,3 +20,4 @@ resources:
   - cert-deploy-kustomization.yaml
   - helm-dashboard-kustomization.yaml
   - external-secrets-kustomization.yaml
+  - oauth2-proxy-kustomization.yaml
